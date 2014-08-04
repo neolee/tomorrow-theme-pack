@@ -1,0 +1,6 @@
+[submodule "vendor/submodules/sanityinc-tomorrow"]
+	path = vendor/submodules/sanityinc-tomorrow
+	url = git@github.com:purcell/color-theme-sanityinc-tomorrow.git
+[submodule "vendor/sanityinc-tomorrow"]
+	path = vendor/sanityinc-tomorrow
+	url = git@github.com:purcell/color-theme-sanityinc-tomorrow.git
