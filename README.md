@@ -1,4 +1,4 @@
-# tomorrow-pack
+# tomorrow-theme-pack
 
 An [Emacs Live](http://overtone.github.io/emacs-live/) pack containing the Tomorrow color themes.
 
