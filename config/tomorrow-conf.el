@@ -7,4 +7,4 @@
 ; (load-theme 'sanityinc-tomorrow-day t)
 ; (load-theme 'sanityinc-tomorrow-eighties t)
 (load-theme 'sanityinc-tomorrow-blue t)
-; (load-theme 'sanityinc-tomorrow-light t)
+; (load-theme 'sanityinc-tomorrow-bright t)
